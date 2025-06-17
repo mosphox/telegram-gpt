@@ -139,6 +139,3 @@ class Logger:
         CRITICAL: Everything’s on fire. Blame someone. Preferably not yourself.
         """
         self._create_log(*args, **kwargs, level="critical")
-
-logger = Logger()
-logger.info()

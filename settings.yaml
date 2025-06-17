@@ -1,0 +1,5 @@
+frequency_penalty: 0.0
+model: llama-3.3-70b-versatile
+presence_penalty: 0.0
+temperature: 1.0
+top_p: 1.0
